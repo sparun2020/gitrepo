@@ -1,2 +1,16 @@
+<<<<<<< HEAD
 Fist line
 second line
+=======
+This is a first line
+
+Adding new line
+
+This is third line
+
+This is a fourth line
+
+This line addedd remotely
+
+Added line for test
+>>>>>>> 365dcceba13e0aeb5d86121d39b0316b4da9c915
