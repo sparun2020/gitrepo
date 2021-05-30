@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Fist line
 second line
 This is a first line
@@ -16,3 +16,5 @@ Added line for test
 newf3
 
 fetch test
+
+latest update
