@@ -23,3 +23,5 @@ addedd to test git pull
 
 newfeature3 added
 Git poll SCM test
+
+Git poll SCM test2
