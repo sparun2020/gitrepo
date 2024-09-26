@@ -1,0 +1,27 @@
+
+Fist line
+second line
+This is a first line
+
+Adding new line
+
+This is third line
+
+This is a fourth line
+
+This line addedd remotely
+
+Added line for test
+
+newf3
+
+fetch test
+
+latest update
+
+addedd to test git pull
+
+newfeature3 added
+Git poll SCM test
+
+Git poll SCM test2
